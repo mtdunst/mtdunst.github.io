@@ -2,28 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Geospatial Analytics
 
-[Project 1 Title](/sample_page)
+[Predicting Bikeshare Demand](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Estimating Home Values in Charlotte](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Transportation Planning
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Freeway Cap in Milwaukee's Bronzeville](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
