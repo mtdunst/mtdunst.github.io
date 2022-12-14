@@ -1,7 +1,9 @@
 ## Portfolio
 
 ---
+[View My Resume]([/Zestimate](https://docs.google.com/document/d/1_-Z8mO7TpNOJU-D1FP8Vc1ED3lGxpgqGMKX5T2IxZKA/edit?usp=sharing))
 
+---
 ### Geospatial Analytics
 
 [Predicting Bikeshare Demand](/bikeshare)
