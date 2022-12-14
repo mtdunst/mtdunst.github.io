@@ -4,17 +4,17 @@
 
 ### Geospatial Analytics
 
-[Predicting Bikeshare Demand](/sample_page)
+[Predicting Bikeshare Demand](/bikeshare)
 
 <img src="images/Bikeshare/bikeshare_header.png?raw=true" width="500"/>
 
 ---
-[Estimating Home Values in Charlotte](/sample_page2)
+[Estimating Home Values in Charlotte](/Zestimate)
 
 <img src="images/508/CLT_header.png?raw=true" width="500"/>
 
 ---
-[Environmental Geospatial Deterministic Analytics](/sample_page)
+[Environmental Geospatial Deterministic Analytics](/Runck)
 
 <img src="images/UMN/runck_header.png?raw=true" width="500"/>
 
