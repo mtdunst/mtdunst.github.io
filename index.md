@@ -8,7 +8,7 @@
 <img src="images/Bikeshare/bikeshare_header.png?raw=true"/>
 
 ---
-[Estimating Home Values in Charlotte](/pdf/sample_presentation.pdf)
+[Estimating Home Values in Charlotte](/sample_page)
 <img src="images/508/CLT_header.png?raw=true"/>
 
 ---
@@ -30,7 +30,7 @@
 
 ### Real Estate Development
 
-[Land Planning Experience](/pdf/sample_presentation.pdf)
+[Land Planning Experience](/sample_page)
 <img src="images/continental.png?raw=true"/>
 
 ---
