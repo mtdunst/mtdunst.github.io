@@ -22,17 +22,17 @@
 
 ### Transportation Planning
 
-[Bike Planning in Disadvantaged Neighborhoods](/sample_page)
+[Bike Planning in Disadvantaged Neighborhoods](/Capstone)
 
 <img src="images/UMN/capstone_header.jpg?raw=true" width="500"/>
 
 ---
-[Freeway Cap in Milwaukee's Bronzeville](/sample_page)
+[Freeway Cap in Milwaukee's Bronzeville](/freeway_cap)
 
 <img src="images/Freeway cap/Aerial.png?raw=true" width="500"/>
 
 ---
-[Equitable Planning for E-Scooters](/sample_page)
+[Equitable Planning for E-Scooters](/scooters)
 
 <img src="images/UMN/escooter_header.jpg?raw=true" width="500"/>
 
@@ -40,12 +40,12 @@
 
 ### Real Estate Development
 
-[Land Planning Experience](/sample_page)
+[Land Planning Experience](/land_planning)
 
 <img src="images/continental.png?raw=true" width="500"/>
 
 ---
-[Reshaping a dead suburban mall](/sample_page)
+[Reshaping a dead suburban mall](/burnsville)
 
 <img src="images/Burnsville mall/Uses.jpg?raw=true" width="500"/>
 
