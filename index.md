@@ -9,7 +9,7 @@
 <img src="images/Bikeshare/bikeshare_header.png?raw=true" width="500"/>
 
 ---
-[Estimating Home Values in Charlotte](/sample_page)
+[Estimating Home Values in Charlotte](/sample_page2)
 
 <img src="images/508/CLT_header.png?raw=true" width="500"/>
 
