@@ -5,7 +5,7 @@
 ### Geospatial Analytics
 
 [Predicting Bikeshare Demand](/sample_page)
-<img src="images/Bikeshare/bikeshare_header.png?raw=true"/>
+<img src="images/Bikeshare/bikeshare_header.png?raw=true" width="100"/>
 
 ---
 [Estimating Home Values in Charlotte](/sample_page)
