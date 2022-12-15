@@ -1,6 +1,6 @@
 ## Portfolio
 
-[View My Resume](/Github resume.pdf)
+[View My Resume](/Github resume)
 
 ---
 ### Geospatial Analytics
