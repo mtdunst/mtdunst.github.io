@@ -1,6 +1,6 @@
 ## Portfolio
 
-[View My Resume](https://github.com/mtdunst/mtdunst.github.io/blob/801517a8ae4b3b23506cb7527bba4a0135771bc1/Github%20resume.pdf)
+[View My Resume](https://github.com/mtdunst/mtdunst.github.io/raw/master/Github%20resume.pdf)
 
 ---
 ### Geospatial Analytics
