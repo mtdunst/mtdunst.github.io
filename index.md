@@ -1,54 +1,34 @@
-## Portfolio
+## Experience
 
 [View My Resume](https://github.com/mtdunst/mtdunst.github.io/raw/master/Github%20resume.pdf)
 
 ---
+## Work Portfolio
 ### Geospatial Analytics
 
-[Predicting Bikeshare Demand](/bikeshare)
+[🚲 Predicting Bikeshare Demand](/bikeshare)
 
-<img src="images/Bikeshare/bikeshare_header.png?raw=true" width="500"/>
+[🏡 Estimating Home Values](/Zestimate)
 
----
-[Estimating Home Values in Charlotte](/Zestimate)
-
-<img src="images/508/CLT_header.png?raw=true" width="500"/>
-
----
-[Environmental Geospatial Deterministic Analytics](/Runck)
-
-<img src="images/UMN/runck_header.png?raw=true" width="500"/>
+[🏞️ Environmental Geospatial Deterministic Analytics](/Runck)
 
 ---
 
 ### Transportation Planning
 
-[Bike Planning in Disadvantaged Neighborhoods](/Capstone)
+[🚌 Service Coverage of Transit Networks](/public_transit)
 
-<img src="images/UMN/capstone_header.jpg?raw=true" width="500"/>
+[📊 Bike Planning in Disadvantaged Neighborhoods](/Capstone)
 
----
-[Freeway Cap in Milwaukee's Bronzeville](/freeway_cap)
-
-<img src="images/Freeway cap/Aerial.png?raw=true" width="500"/>
-
----
-[Equitable Planning for E-Scooters](/scooters)
-
-<img src="images/UMN/escooter_header.jpg?raw=true" width="500"/>
+[🛣️ Freeway Cap in Milwaukee's Bronzeville](/freeway_cap)
 
 ---
 
 ### Real Estate Development
 
-[Land Planning Experience](/land_planning)
+[🏢 Land Planning Experience](/land_planning)
 
-<img src="images/continental.png?raw=true" width="500"/>
-
----
-[Reshaping a dead suburban mall](/burnsville)
-
-<img src="images/Burnsville mall/Uses.jpg?raw=true" width="500"/>
+[🏙️ Reshaping a dead suburban mall](/burnsville)
 
 ---
 
