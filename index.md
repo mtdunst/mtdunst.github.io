@@ -6,17 +6,17 @@
 ## Work Portfolio
 ### Geospatial Analytics
 
+[**New! Fall 2023**🚇 Creating TOD Strategy Recommendations for Bogotá](/Bogota)
+
 [🚲 Predicting Bikeshare Demand](/bikeshare)
 
 [🏡 Estimating Home Values](/Zestimate)
-
-[🏞️ Environmental Geospatial Deterministic Analytics](/Runck)
 
 ---
 
 ### Transportation Planning
 
-[🚌 Service Coverage of Transit Networks](/public_transit)
+[**New! Fall 2023**🚌 Service Coverage of Transit Networks](/public_transit)
 
 [📊 Bike Planning in Disadvantaged Neighborhoods](/Capstone)
 
