@@ -6,7 +6,8 @@
 ## Work Portfolio
 ### Geospatial Analytics
 
-[**New! Fall 2023**\🚇 Creating TOD Strategy Recommendations for Bogotá](/Bogota)
+**New! Fall 2023**
+[🚇 Creating TOD Strategy Recommendations for Bogotá](/Bogota)
 
 [🚲 Predicting Bikeshare Demand](/bikeshare)
 
@@ -16,7 +17,8 @@
 
 ### Transportation Planning
 
-[**New! Fall 2023**\🚌 Service Coverage of Transit Networks](/public_transit)
+**New! Fall 2023**
+[🚌 Service Coverage of Transit Networks](/public_transit)
 
 [📊 Bike Planning in Disadvantaged Neighborhoods](/Capstone)
 
