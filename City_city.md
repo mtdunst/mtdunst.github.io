@@ -2,7 +2,7 @@
 
 **Project description:** As I sat in a presentation about Jacksonville, FL, where they touted their rank at the top of the largest (geographic) American cities, I thought about how we can define cities when political boundaries lead us astray. To me, using an objective density metric could give people a better idea of where "real cities" are in the United States. To accomplish this, I wrangled Census data, created an interactive dashboard, and published it online.
 
-You can access it [here](https://mtdunst-how-city-is-your-city.hf.space).
+You can access it here: <https://mtdunst-how-city-is-your-city.hf.space>
 
 ## Behind-the-scenes
 
