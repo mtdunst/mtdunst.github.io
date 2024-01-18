@@ -7,6 +7,9 @@
 ### Geospatial Analytics
 
 **New! Fall 2023**
+[🌇 How "City" is Your City? Interactive geospatial analysis.](/City_city)
+
+**New! Fall 2023**
 [🚇 Creating TOD Strategy Recommendations for Bogotá](/Bogota)
 
 [🚲 Predicting Bikeshare Demand](/bikeshare)
