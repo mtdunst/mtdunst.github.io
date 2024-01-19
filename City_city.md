@@ -4,6 +4,8 @@
 
 You can access it here: <https://mtdunst-how-city-is-your-city.hf.space>
 
+<img src="images/city.png?raw=true" width="600"/>
+
 ## Behind-the-scenes
 
 ### 1. Data wrangling
