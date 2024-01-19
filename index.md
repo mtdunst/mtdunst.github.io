@@ -1,6 +1,6 @@
 ## Experience
 
-[View My Resume](https://github.com/mtdunst/mtdunst.github.io/blob/master/Dunst_Resume_transpo.docx)
+[View My Resume](https://github.com/mtdunst/mtdunst.github.io/raw/master/Github%20resume.pdf)
 
 ---
 ## Work Portfolio
