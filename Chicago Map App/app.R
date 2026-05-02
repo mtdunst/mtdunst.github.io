@@ -46,7 +46,7 @@ library(leaflet)
 server <- function(input, output, session) {
   
   # Hardcoded folder path containing .tif files
-  folder_path <- "C/Data layers"  # Replace with the actual path to your .tif folder
+  folder_path <- "Data layers"  # Replace with the actual path to your .tif folder
   
   # List all .tif files in the folder
   files <- list.files(folder_path, pattern = "\\.tif$", full.names = TRUE)
