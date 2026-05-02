@@ -134,7 +134,8 @@ server <- function(input, output, session) {
     # Load and sum the weighted rasters
     master_raster_obj <- NULL
     for (i in seq_along(files)) {
-      weight <- input[[paste0("weight_", i)]]
+      # browser()
+      weight <- if (is.null(input[[paste0("weight_", i)]])) 1 else input[[paste0("weight_", i)]]
       raster <- rast(files[i])
       weighted_raster <- raster * weight
       if (is.null(master_raster_obj)) {
