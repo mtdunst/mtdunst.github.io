@@ -2,6 +2,8 @@ library(shiny)
 library(leaflet)
 library(shinyBS)  # Load the shinyBS package
 
+# setwd("C:/Users/14145/Documents/GitHub/mtdunst.github.io/Chicago Map App")
+# rsconnect::writeManifest()
 ui <- fluidPage(
   titlePanel("Where Should I Live in Chicago?"),
   
